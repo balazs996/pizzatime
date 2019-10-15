@@ -2,8 +2,18 @@ legend {
     text-align: center;
 }
 
-.regio{
+.regio {
     float: left;
     width: 46%;
     margin: 0 10px;
+    height: 200px;
+}
+
+td {
+    padding: 5px;
+    text-align: center;
+}
+
+td:first-child {
+    text-align: left;
 }
